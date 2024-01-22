@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+    margin-left: 60px;
+    margin-right: 60px;
+    border-spacing: 40px;
+}
+.hj{
+    border-radius:500px;
+}
+button:hover{
+    color: grey;
+    font-size: 60%;
+}
+.maxwell{
+    border: blue;
+    background-color: black;
+}
+.tt{
+    padding: 10px;
+    background-color: grey;
+    border-radius: 30px;
+    cursor: pointer;
+    margin-right: 5%;
+    float: right;
+
+
+}
+::placeholder{
+    color: white;
+    background-color: black;
+
+
+}
+textarea{
+    float: right;
+    margin-right: 10%;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+
+}
